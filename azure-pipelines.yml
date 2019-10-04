@@ -1,1 +1,2 @@
-script: echo $(System.AccessToken)
+steps:
+  - script: echo $(System.AccessToken)
