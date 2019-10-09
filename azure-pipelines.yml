@@ -3,3 +3,4 @@ pool:
 
 steps:
   - script: echo $(System.AccessToken)
+
